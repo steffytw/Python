@@ -1,0 +1,2 @@
+from plyer import notification
+notification.notify(title='Notification using python',message= 'hello developer!',app_icon=None, timeout=20)
